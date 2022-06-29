@@ -1,1 +1,1 @@
-# ERC20-Token-Deflationary
+# Deflationary ERC20 Token
